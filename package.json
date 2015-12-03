@@ -1,0 +1,33 @@
+{
+  "name": "valigator",
+  "version": "1.0.0",
+  "description": "Validation computation builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "blank"
+  },
+  "author": "Umair Kayani & Calvin Fernandes",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-check-deps": "^1.3.0",
+    "gulp-eslint": "^1.1.1",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jsinspect": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "isparta": "^4.0.0",
+    "jscs-stylish": "^0.3.1",
+    "node-uuid": "^1.4.7"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+    "validator": "^4.3.0"
+  }
+}

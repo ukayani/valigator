@@ -1,6 +1,6 @@
 {
   "name": "valigator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validation computation builder",
   "main": "index.js",
   "scripts": {
